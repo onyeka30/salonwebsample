@@ -1,1 +1,1 @@
-TinDog Starting Files
+a simple website sample
